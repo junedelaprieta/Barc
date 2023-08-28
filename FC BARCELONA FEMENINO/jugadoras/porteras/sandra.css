@@ -64,15 +64,30 @@ ul, ol {
  margin-right: 0px;
 }
 
-
-
-/*FORMAS DE LISTAS Y ENLACES*/
-.nav li a {
+.galeria{
+   font-size: 30px;
    background-color:#ab2a3e;
    color:#fff;
    text-decoration:none;
    padding:10px 10px;
    display:block;
+}
+
+
+/*FORMAS DE LISTAS Y ENLACES*/
+.nav li a {
+   /*background-color:#ab2a3e;*/
+   color:#fff;
+   text-decoration:none;
+   padding:10px 10px;
+   display:block;
+}
+.jugadoras{
+   color:#fff;
+   text-decoration:none;
+   padding:10px 10px;
+   display:block;
+   font-size: 30px;
 }
 .nav li a:hover {
    background-color:#1565C0;
@@ -92,7 +107,8 @@ ul, ol {
 }
 img{
     width: 200px;
+    
 }
 .paños{
-    width: 315px;
+    width: 397px;
 }
